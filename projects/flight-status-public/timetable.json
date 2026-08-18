@@ -1,0 +1,6 @@
+{
+  "LH400": { "status": "On time" },
+  "LH401": { "status": "Delayed" },
+  "LH402": { "status": "Boarding" },
+  "BA203": { "status": "Cancelled" }
+}
